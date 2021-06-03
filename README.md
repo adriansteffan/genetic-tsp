@@ -27,5 +27,5 @@ For details regarding command line arguments and hyperparameters, refer to the `
 
 ## Authors
 
-* **Adrian Steffan** - [adriansteffan](https://github.com/adriansteffan)
+* **Adrian Steffan** - [adriansteffan](https://github.com/adriansteffan) [website](https://adriansteffan.com/)
 
